@@ -3,8 +3,7 @@ const myname="YAZAN"
 const mymajor="BIT"
 
 const mycar="KIA"
-car=["bmw","benz","opel"]
-console.log(car)
+
 console.log(myname,"@",mymajor,"@",mycar)
 
 
@@ -39,6 +38,11 @@ else if (mark<81 && mark>90) {
 else {
     console.log("A+")
 }
+
+car=["bmw","benz","opel"]
+console.log(car)
+
+
 
 
 
